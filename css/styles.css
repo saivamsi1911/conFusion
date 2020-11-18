@@ -70,3 +70,9 @@ body{
 .modal{
     min-width: 1000px;
 }
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
